@@ -161,8 +161,6 @@ saakin -start -range 5
 
 ## Building
 
-See [CLAUDE.md](CLAUDE.md) for detailed build instructions.
-
 Quick build:
 ```bash
 dotnet build -c Release
